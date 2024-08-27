@@ -1,0 +1,3 @@
+Hello, World!
+It's too hot outside!
+Something went wrong so this is a new version of this file...
